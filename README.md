@@ -2,7 +2,8 @@
 
 **`Analista de QA`**
 
-Olá, me chamo Leandro Lino Becker, tenho 42 anos e sou natural de São José dos Campos - SP. Sou formado em Medicina Veterinária, área na qual atuei por anos, e agora me encontro em transição de carreira para Analista de QA. Sempre fui apaixonado por tecnologia, e tento sempre acompanhar as tendências do mercado atual. Finalizei meu curso de Analista de QA na TripleTen em Jan/2026 e estou disponível para começar a minha jornada neste mundo tão vasto e interessante. 
+Olá, me chamo Leandro Lino Becker, tenho 42 anos e sou natural de São José dos Campos - SP. Sou formado em Medicina Veterinária, área na qual atuei por anos, e agora me encontro em transição de carreira para Analista de QA. Sempre fui apaixonado por tecnologia, e tento sempre acompanhar as tendências do mercado atual. Finalizei meu curso de Analista de QA na TripleTen em Jan/2026 e estou disponível para começar a minha jornada neste mundo tão vasto e interessante.
+Se quiser, me contate no Linkedin [aqui](www.linkedin.com/in/leandrobeckerqa).
 
 <p align="left">
       <a href="https://github.com/leandrobeckerqa?tab=repositories&sort=stargazers">
@@ -12,7 +13,7 @@ Olá, me chamo Leandro Lino Becker, tenho 42 anos e sou natural de São José do
             src="https://custom-icon-badges.demolab.com/github/stars/leandrobeckerqa?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/leandrobeckerqa?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
