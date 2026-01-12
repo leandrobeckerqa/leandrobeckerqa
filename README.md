@@ -3,7 +3,7 @@
 **`Analista de QA`**
 
 Olá, me chamo Leandro Lino Becker, tenho 42 anos e sou natural de São José dos Campos - SP. Sou formado em Medicina Veterinária, área na qual atuei por anos, e agora me encontro em transição de carreira para Analista de QA. Sempre fui apaixonado por tecnologia, e tento sempre acompanhar as tendências do mercado atual. Finalizei meu curso de Analista de QA na TripleTen em Jan/2026 e estou disponível para começar a minha jornada neste mundo tão vasto e interessante.
-Se quiser, me contate no Linkedin [aqui](www.linkedin.com/in/leandrobeckerqa).
+Se quiser, me contate no Linkedin [aqui](www.linkedin.com/leandrobeckerqa).
 
 <p align="left">
       <a href="https://github.com/leandrobeckerqa?tab=repositories&sort=stargazers">
